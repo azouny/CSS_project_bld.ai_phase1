@@ -1,0 +1,129 @@
+.logo
+{
+    width: 99px;
+    height: 34px;
+
+    margin: none;
+}
+
+.first_bar_hover:hover
+{
+    color: blueviolet;
+    font-weight: bolder;
+}
+
+.first_bar
+{
+    justify-content:baseline;
+    align-items: center;
+    display: flex;
+
+    font-size: large;
+    margin: 10px;
+}
+
+
+
+
+#search_bar
+{
+    width: 400px;
+    height: 20px;
+    border-radius: 20px;
+}
+
+
+#cart_img
+{
+    width: 50px;
+    height: 30px;
+    border: 200px;
+}
+
+#login_button
+{
+    background-color: skyblue;
+}
+
+#signup_button
+{
+    background-color: greenyellow;
+}
+
+#account_img
+{
+    width: 40px;
+    height: 40px;
+}
+
+.second_bar
+{
+    justify-content:baseline;
+    align-items: center;
+    display: flex;
+
+    font-size: larger;
+}
+
+#alarm_img
+{
+    z-index: 101;
+}
+
+.text1
+{
+    z-index: 100;
+
+    width: 400px;
+    margin-left: 100px;
+}
+
+
+#block1
+{
+    margin-left: 30px;
+}
+
+
+.courses
+{
+    margin: 10px;
+}
+
+.courses:hover
+{
+    font-weight: bold;
+    color: limegreen;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#courses_list
+{
+    justify-content:baseline;
+    align-items: center;
+    display: flex;
+}
+
+#block2
+{
+    width: 1550px;
+
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+#courses_button
+{
+    background-color: beige;
+    width: 150px;
+    height: 35px;
+}
+
+#courses_images
+{
+    justify-content:baseline;
+    align-items: center;
+    display: flex;
+}
